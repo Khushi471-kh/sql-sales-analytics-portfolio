@@ -19,20 +19,14 @@ This project demonstrates end-to-end sales data analysis using SQL Server and th
 ## 🗂️ Database Schema
 
 ![SalesDB Schema](documentation/schema.png)
+- - -
+## Key Insights
 
----
-
-## 🛠️ SQL Concepts Used
-
-* SELECT, WHERE, ORDER BY
-* GROUP BY, HAVING
-* Aggregate Functions
-* String Functions
-* Date Functions
-* Set Operators
-* Joins
-* Window Functions
-* CTEs
+- Monthly order analysis revealed seasonal variations in demand.
+- Shipping duration analysis identified operational efficiency trends.
+- Product-level analysis highlighted top revenue-generating categories.
+- Customer analysis identified high-value customers contributing significantly to total revenue.
+- Employee performance analysis revealed differences in sales contribution across team members.
 
 ---
 
@@ -47,7 +41,7 @@ This project demonstrates end-to-end sales data analysis using SQL Server and th
 
 ---
 
-## 📂 Repository Structure
+## 📂 Project Structure
 
 ```text
 SQL-Sales-Analytics-Portfolio/
